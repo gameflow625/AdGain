@@ -1,0 +1,2 @@
+# AdGain
+ url per API
